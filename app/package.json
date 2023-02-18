@@ -1,6 +1,7 @@
 {
     "dependencies": {
-        "@sap/approuter": "latest"
+        "@sap/approuter": "latest",
+        "@sap/cds-dk": "^6.5.2"
     },
     "scripts": {
         "start": "node node_modules/@sap/approuter/approuter.js"
